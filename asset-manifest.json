@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.ef31c155.js",
-    "index.html": "/index.html",
-    "main.ef31c155.js.map": "/static/js/main.ef31c155.js.map"
+    "main.js": "/react-counter/static/js/main.ef31c155.js",
+    "index.html": "/react-counter/index.html",
+    "main.ef31c155.js.map": "/react-counter/static/js/main.ef31c155.js.map"
   },
   "entrypoints": [
     "static/js/main.ef31c155.js"
